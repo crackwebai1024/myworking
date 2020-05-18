@@ -121,8 +121,16 @@
               "devServerTarget": "my-first-project:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "my-first-project"
+    }
+  },
+  "defaultProject": "my-first-project",
+  "cli": {
+    "analytics": "1c8ae1e2-1a69-49dd-b84c-e208383d9e43"
+  }
 }

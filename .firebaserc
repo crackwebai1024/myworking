@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "shopang-807aa": {
+      "hosting": {
+        "my-first-project": [
+          "shopang-807aa"
+        ]
+      }
+    }
+  }
+}
